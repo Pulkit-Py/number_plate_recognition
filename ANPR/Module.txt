@@ -1,0 +1,8 @@
+Argparse - pip install argparse
+csv - pip install python-csv
+io - pre installed
+os - pre installed
+datetime - pre installed
+threading - pre installed
+requests - pip install reuests
+PIL - pip install Pillow
