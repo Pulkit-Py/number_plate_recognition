@@ -6,3 +6,5 @@ datetime - pre installed
 threading - pre installed
 requests - pip install reuests
 PIL - pip install Pillow
+
+For the video Tutorial visit :- https://www.youtube.com/watch?v=gTZOLaaQihs
